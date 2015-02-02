@@ -1,6 +1,6 @@
 # Environment-Variables
 
-Backup of environment variables of all my computers.
+Backup of environment variables from all my computers.
 
 ## MacbookAir-Personal
 .bashrc, .bash_profile and .profile from my personal Macbook Air. 
